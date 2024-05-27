@@ -1,0 +1,170 @@
+Enter website address: google.com
+✓ Found active connection!
+✓ Metadata Scrapper started!
+Metadata of http://google.com: 
+content: text/html;
+charset: UTF-8
+http-equiv: Content-Type
+
+content: /logos/doodles/2024/india-general-elections-2024-ph-4-6753651837110505-l.png
+itemprop: image
+
+content: India general elections 2024
+property: twitter:title
+
+content: India general elections 2024! #GoogleDoodle
+property: twitter:description
+
+content: India general elections 2024! #GoogleDoodle
+property: og:description
+
+content: summary_large_image
+property: twitter:card
+
+content: @GoogleDoodles
+property: twitter:site
+
+content: https://www.google.com/logos/doodles/2024/india-general-elections-2024-ph-4-6753651837110505-2x.png
+property: twitter:image
+
+content: https://www.google.com/logos/doodles/2024/india-general-elections-2024-ph-4-6753651837110505-2x.png
+property: og:image
+
+content: 1000
+property: og:image:width
+
+content: 400
+property: og:image:height
+
+✓ Subdomain enumerator started!
+[✓] http://www.google.com
+[✓] http://mail.google.com
+[✓] http://drive.google.com
+[✓] http://maps.google.com
+[✓] http://news.google.com
+[✓] http://translate.google.com
+[✓] http://play.google.com
+[✓] http://calendar.google.com
+[✓] http://photos.google.com
+[✓] http://docs.google.com
+[✓] http://m.google.com
+[✓] http://blog.google.com
+[✓] http://admin.google.com
+[✓] http://news.google.com
+[✓] http://support.google.com
+[✓] http://mobile.google.com
+[✓] http://docs.google.com
+[✓] http://calendar.google.com
+[✓] http://images.google.com
+[✓] http://video.google.com
+[✓] http://search.google.com
+[✓] http://chat.google.com
+[✓] http://sites.google.com
+[✓] http://ads.google.com
+[✓] http://apps.google.com
+[✓] http://store.google.com
+[✓] http://files.google.com
+[✓] http://ipv4.google.com
+✓ Domain to ip resolving started!
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:00<00:00, 48.18it/s]
+[✓] www.google.com: 142.250.196.36
+[✓] mail.google.com: 142.250.205.229
+[✓] drive.google.com: 142.250.182.142
+[✓] maps.google.com: 142.250.182.14
+[✓] news.google.com: 172.217.31.206
+[✓] translate.google.com: 142.250.196.174
+[✓] play.google.com: 142.250.182.110
+[✓] calendar.google.com: 142.250.196.174
+[✓] photos.google.com: 142.250.193.110
+[✓] docs.google.com: 142.250.193.142
+[✓] m.google.com: 172.217.160.139
+[✓] blog.google.com: 142.250.182.137
+[✓] admin.google.com: 142.250.195.110
+[✓] support.google.com: 142.250.205.238
+[✓] mobile.google.com: 172.217.160.139
+[✓] images.google.com: 142.250.182.46
+[✓] video.google.com: 142.250.76.78
+[✓] search.google.com: 142.250.196.174
+[✓] chat.google.com: 142.250.196.78
+[✓] sites.google.com: 142.250.193.174
+[✓] ads.google.com: 142.250.195.174
+[✓] apps.google.com: 142.250.196.174
+[✓] store.google.com: 142.250.193.174
+[✓] files.google.com: 142.250.196.174
+[✓] ipv4.google.com: 142.250.195.142
+✓ Port scanner started!
+ photos.google.com
+142.250.193.110 - Port 80 - open
+142.250.193.110 - Port 443 - open
+ calendar.google.com 
+142.250.196.174 - Port 80 - open
+142.250.196.174 - Port 443 - open
+ apps.google.com 
+142.250.196.174 - Port 80 - open
+142.250.196.174 - Port 443 - open
+ sites.google.com 
+142.250.193.174 - Port 80 - open
+142.250.193.174 - Port 443 - open
+ admin.google.com 
+142.250.195.110 - Port 80 - open
+142.250.195.110 - Port 443 - open
+ mail.google.com 
+142.250.205.229 - Port 80 - open
+142.250.205.229 - Port 443 - open
+ play.google.com 
+142.250.182.110 - Port 80 - open
+142.250.182.110 - Port 443 - open
+ docs.google.com 
+142.250.193.142 - Port 80 - open
+142.250.193.142 - Port 443 - open
+ www.google.com 
+142.250.196.36 - Port 80 - open
+142.250.196.36 - Port 443 - open
+ translate.google.com 
+142.250.196.174 - Port 80 - open
+142.250.196.174 - Port 443 - open
+ m.google.com 
+172.217.160.139 - Port 80 - open
+172.217.160.139 - Port 443 - open
+ ads.google.com 
+142.250.195.174 - Port 80 - open
+142.250.195.174 - Port 443 - open
+ store.google.com 
+142.250.193.174 - Port 80 - open
+142.250.193.174 - Port 443 - open
+ files.google.com 
+142.250.196.174 - Port 80 - open
+142.250.196.174 - Port 443 - open
+ images.google.com 
+142.250.182.46 - Port 80 - open
+142.250.182.46 - Port 443 - open
+ maps.google.com 
+142.250.182.14 - Port 80 - open
+142.250.182.14 - Port 443 - open
+ ipv4.google.com 
+142.250.195.142 - Port 80 - open
+142.250.195.142 - Port 443 - open
+ mobile.google.com 
+172.217.160.139 - Port 80 - open
+172.217.160.139 - Port 443 - open
+ news.google.com 
+172.217.31.206 - Port 80 - open
+172.217.31.206 - Port 443 - open
+ blog.google.com 
+142.250.182.137 - Port 80 - open
+142.250.182.137 - Port 443 - open
+ support.google.com 
+142.250.205.238 - Port 80 - open
+142.250.205.238 - Port 443 - open
+ drive.google.com 
+142.250.182.142 - Port 80 - open
+142.250.182.142 - Port 443 - open
+ search.google.com 
+142.250.196.174 - Port 80 - open
+142.250.196.174 - Port 443 - open
+ chat.google.com 
+142.250.196.78 - Port 80 - open
+142.250.196.78 - Port 443 - open
+ video.google.com 
+142.250.76.78 - Port 80 - open
+142.250.76.78 - Port 443 - open
